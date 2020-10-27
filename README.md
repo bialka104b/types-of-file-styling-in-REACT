@@ -4,7 +4,6 @@
 - sass file connection (`npm i node-sass`)
 - metodology BEM
 - REACT
-- css in js
 
 <img src="./img/true.jpg">
 <img src="./img/false.jpg">
