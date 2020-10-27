@@ -1,3 +1,10 @@
+### About project
+- 4 ways of manipulating styles in REACT components
+- sass file connection (`npm i node-sass`)
+- metodology BEM
+- REACT
+- css in js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
